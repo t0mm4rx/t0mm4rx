@@ -13,7 +13,7 @@ I'm a student at School 42 since October 2019. I also freelance as a web and mob
 
 🏀 I play basketball as well :)
 
-I can do:
+Skills:
 - Web: HTML, CSS, JS, VueJS, ReactJS
 - Programming: C/C++, Python
 - Mobile apps: React Native, native Android
