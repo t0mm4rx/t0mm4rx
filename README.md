@@ -3,7 +3,7 @@
 ## Code is a powerful tool!
 
 I'm Tom, living in Paris, France.
-I'm a student at School 42 since October 2019. I also freelance.
+I'm a student at School 42 since October 2019. I also freelance as a web and mobile developer.
 
 👨‍💻 I've been passionate about coding since I was a child, and I've always done little projects, game, apps...
 
