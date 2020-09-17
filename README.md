@@ -1,6 +1,6 @@
 # Hi! 👋
 
-**The code is a powerful tool!**
+**Code is a powerful tool!**
 
 I'm Tom, currently living in Paris, France.
 I'm a student at School 42 since October 2019. I work as a freelance as well.
