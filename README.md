@@ -5,13 +5,13 @@
 I'm Tom, living in Paris, France.
 I'm a student at School 42 since October 2019. I also freelance as a web and mobile developer.
 
-👨‍💻 I've been passionate about coding since I was a child, and I've always done little projects, game, apps...
+👨‍💻  I've been passionate about coding since I was a child, and I've always done little projects, game, apps...
 
-🎨 I enjoy coding creative stuff, such as animations, web/mobile design, and random art generation.
+🎨  I enjoy coding creative stuff, such as animations, web/mobile design, and random art generation.
 
-📈 I have a growing interest for finance, especially automatic trading, AI trading and cryptos.
+📈  I have a growing interest for finance, especially automatic trading, AI trading and cryptos.
 
-🏀 I play basketball as well :)
+🏀  I play basketball as well :)
 
 Skills:
 - Web: HTML, CSS, JS, VueJS, ReactJS
