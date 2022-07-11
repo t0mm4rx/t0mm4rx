@@ -3,7 +3,7 @@
 ## Code is a powerful tool!
 
 I'm Tom, living in Paris, France.
-I'm the co-founder of capsa, a crypto trading firm, and I've been freelancing for consulting firms and startups.
+I'm the co-founder of capsa, a crypto quantitative trading firm, and I've been freelancing for consulting firms and startups.
 
 👨‍💻  I've been passionate about coding since I was a child, and I've always done projects, game, apps...
 
